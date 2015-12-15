@@ -800,4 +800,4 @@ var pkmn_stats =
 { "id":"720", "name":"Hoopa Confined", "type":["Psychic", "Ghost"], "total":"600", "hp":"80", "atk":"110", "def":"60", "spatk":"150", "spdef":"130", "spd":"70" },
 { "id":"720", "name":"Hoopa Unbound", "type":["Psychic", "Dark"], "total":"680", "hp":"80", "atk":"160", "def":"60", "spatk":"170", "spdef":"130", "spd":"80" },
 { "id":"721", "name":"Volcanion", "type":["Fire", "Water"], "total":"600", "hp":"80", "atk":"110", "def":"120", "spatk":"130", "spdef":"90", "spd":"70" },
-]
+];
